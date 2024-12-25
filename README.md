@@ -12,7 +12,7 @@ Its Gwn Jimi.
 I have 1 year development experiens
 
 ## 📫 How to reach me
-My Discord username is sub2JimigameYT, but you can also send me a message wherever else you find me.
+My Discord username is WsgJimi, but you can also send me a message wherever else you find me.
 
 
-![jensjeflensje's github stats](https://github-readme-stats.vercel.app/api?username=Devv-Jimi)
+![Jimi's github stats](https://github-readme-stats.vercel.app/api?username=Devv-Jimi)
